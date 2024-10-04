@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "olanrewajuoluwagbemisol@gmail.com",
-		"password": "olarewajugemisola@123",
+		"email": "suleimanayomide716@gmail.com",
+		"password": "Ayomide(1234)",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,7 +18,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [ "100090443419982","61553871285563" ],
+	"adminBot": [ "100090443419982","61553871285563","61553565805276" ],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
